@@ -15,11 +15,16 @@ Easy-to-follow instructions for customizing the flag's dimensions and colors.
 Follow the provided code and instructions to draw the Indian flag using Turtle graphics. Customize the dimensions and colors as needed to create your version of the flag.
 
 **#Getting Started
+
+![0efc7769-4975-465d-a631-6f200fc54db6](https://github.com/syedasgarahmed/Indian_flag/assets/73679838/bc7ed735-7556-4a19-a6d7-24ac6feced48)
+
 **
 Clone this repository to your local machine.
 Open the project in your preferred Python environment.
 Follow the code and instructions in the provided script to draw the Indian flag.
 Experiment with different dimensions and colors to create variations of the flag.
+
+
 **#Contributing
 **
 We welcome contributions to enhance this project further. If you have ideas, improvements, or additional features to suggest, please open an issue or submit a pull request.
